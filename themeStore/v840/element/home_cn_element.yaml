@@ -1,0 +1,28 @@
+# ----------------- Tab -------------------
+home_tab: {text: "首页", resourceId: "normalLable"}
+# ----------------- 工具栏 -------------------
+paihang_code: {text: "排行", resourceId: "banner_item_tv"}
+fuli_code: {text: "福利", resourceId: "banner_item_tv"}
+mianfei_code: {text: "免费", resourceId: "banner_item_tv"}
+dashang_code: {text: "主题大赏", resourceId: "banner_item_tv"}
+chaojiIP_code: {text: "超级IP", resourceId: "banner_item_tv"}
+
+yujian_code: {text: "遇见"}
+tuijian_code: {text: "推荐"}
+zhuti_code: {text: "主题"}
+ziti_code: {text: "字体"}
+bizhi_code: {text: "壁纸"}
+
+
+free_code: {text: "免费榜"}
+
+
+changxiao_code: {text: "畅销榜", resourceId: "title_name_tv"}
+
+top_code: {resourceId: "paid_res_online_download_install_progress", description: "应用"}
+test_code: {textContains: "应用", resourceId: "right_btn"}
+
+test_code: {textContains: "应用", resourceId: "right_btn"}
+
+
+
