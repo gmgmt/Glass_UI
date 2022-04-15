@@ -1,7 +1,13 @@
-# coding: utf-8
-#
+#!/usr/bin/env python
+# -*- coding:utf-8 -*-
 # Refs:
 # - https://opencv-python-tutroals.readthedocs.io/en/latest/
+"""
+# @Author   : chuanwen.peng
+# @Time     : 2022/4/15 14:21
+# @File     : image.py
+# @Project  : Glass_UI
+"""
 
 import logging
 import os

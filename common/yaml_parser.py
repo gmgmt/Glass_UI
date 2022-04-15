@@ -1,6 +1,11 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-
+"""
+# @Author   : chuanwen.peng
+# @Time     : 2022/4/15 14:21
+# @File     : yaml_parser.py
+# @Project  : Glass_UI
+"""
 import yaml
 
 
